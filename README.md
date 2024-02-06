@@ -1,5 +1,41 @@
 # React + Vite
 
+# Project Title
+
+Description
+This project is a React application built using Vite as the bundler. It serves as a template for creating modern web applications with React and leveraging Vite's fast build process.
+
+Setup
+Follow these steps to set up the project locally:
+
+Clone the repository:
+
+git clone <repository-url>
+
+Navigate to the project directory:
+
+cd project-directory
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open the application:
+
+Open your web browser and go to http://localhost:3000.
+
+Available Scripts
+In the project directory, you can run the following scripts:
+
+Start Development Server:
+
+npm run dev
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
