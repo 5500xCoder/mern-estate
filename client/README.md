@@ -36,6 +36,18 @@ Start Development Server:
 npm run dev
 
 
+Learn More
+To learn more about React and Vite, check out the following resources:
+
+React Documentation
+Vite Documentation
+Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+License
+This project is licensed under the MIT License.
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
