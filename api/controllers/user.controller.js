@@ -25,6 +25,7 @@ export const test = ( req, res)=>{
                 avatar: req.body.avatar,
 
             }
+            
         } , {new:true})
 
         const {password, ...rest}=updatedUser._doc
