@@ -20,7 +20,7 @@ import mongoose from "mongoose";
     },
     avatar:{
         type: String,
-        default: "https://www.flaticon.com/free-icon/user_9073143?term=avatar&page=1&position=3&origin=search&related_id=9073143"
+        default: "https://pin.it/R18ord27W"
     },
  },
  {
