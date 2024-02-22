@@ -20,7 +20,7 @@ import mongoose from "mongoose";
     },
     avatar:{
         type: String,
-        default: "https://pin.it/R18ord27W"
+        default: "https://www.w3schools.com/howto/img_avatar.png"
     },
  },
  {
